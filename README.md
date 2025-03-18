@@ -108,7 +108,7 @@ Contributions are welcome! Please follow these steps:
 ## Contact
 For any queries or feedback, feel free to reach out:
 
-- **Name**: Shreyashwini
+- **Name**: Shreyashwini R
 
 - **Email**: shreyashwinir@gmail.com
 
