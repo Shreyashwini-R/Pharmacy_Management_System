@@ -1,10 +1,10 @@
 # Pharmacy Management System with AI Chatbot and QR Code Scanner
-## Overview
+## 📖 Overview
 This project is a Pharmacy Management System built using Streamlit, MySQL, and Google's Gemini AI. It includes features for both Customers and Managers, such as placing orders, viewing inventory, managing suppliers, and generating sales reports. Additionally, it integrates an AI Chatbot powered by Gemini AI for virtual assistance and a QR Code Scanner to retrieve medicine details.
 
 The system supports multi-language functionality and includes features like email notifications for out-of-stock drugs, drug interaction warnings, and secure user authentication.
 
-## Features
+## 🚀 Features
 ### 1. User Authentication
 - **Login/Signup**: Customers and Managers can log in or sign up securely.
 
@@ -57,7 +57,7 @@ The application supports multiple languages, including English, Spanish, French,
 
 - **Pandas**: For data manipulation and display (e.g., sales reports, inventory).
 
-## Installation
+##  🔧 Installation
 ### Prerequisites
 - **Python 3.8+**: Ensure Python is installed on your system.
 
